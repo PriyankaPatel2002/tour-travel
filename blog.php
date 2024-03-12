@@ -2,8 +2,8 @@
 <section class="hero1  about blog-page">
     <div class="hero1-up">
         <div class="container hero1-text-box">
-            <div class="col-lg-5" data-aos="fade-right">
-                <h1></h1>
+            <div class="col-lg-5" >
+                <h1>OUR BLOG</h1>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta veritatis in tenetur doloremque,
                     maiores doloribus officia iste. Dolores.</p>
                 <!-- Button trigger modal -->

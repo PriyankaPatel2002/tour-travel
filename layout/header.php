@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tour&&Travel</title>
+    <title>Tour&Travel</title>
     <link rel="stylesheet" href="css/all.min.css">
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/style.css">
@@ -12,6 +12,7 @@
     <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
     <link rel="stylesheet" href="css/owl.carousel.min.css">
     <link rel="stylesheet" href="css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="css/venobox.css">
 </head>
 
 <body>
@@ -43,7 +44,7 @@
                 <div
                     class="col-lg-3 cre-button col-md-6 col-sm-12 text-center p-1 d-flex justify-content-end align-items-center">
                     <!-- Button trigger modal -->
-                    <a href="contact.php" class="btn btn-light">Join  Us</a>
+                    <a href="signup.php" class="btn btn-light">Join  Us</a>
                 </div>
             </div>
         </div>

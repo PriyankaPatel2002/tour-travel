@@ -3,7 +3,7 @@
 <section class="hero1">
     <div class="hero1-up">
         <div class="container hero1-text-box">
-            <div class="col-lg-5" data-aos="fade-right">
+            <div class="col-lg-5">
                 <h1>Let's Enjoy The Wonders of Nature</h1>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta veritatis in tenetur doloremque,
                     maiores doloribus officia iste. Dolores.</p>
@@ -59,7 +59,7 @@
                 <p class="story-para">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos debitis enim
                     a pariatur molestiae.</p>
             </div>
-            <div class="col-md-6 traveler" data-aos="fade-right">
+            <div class="col-md-6 traveler" >
                 <img src="images/traveler.jpg" alt="traveler" class="img-fluid">
             </div>
         </div>

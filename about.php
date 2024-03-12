@@ -2,7 +2,7 @@
 <section class="hero1  about">
     <div class="hero1-up">
         <div class="container hero1-text-box">
-            <div class="col-lg-5" data-aos="fade-right">
+            <div class="col-lg-5">
                 <h1>About Us</h1>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta veritatis in tenetur doloremque,
                     maiores doloribus officia iste. Dolores.</p>
@@ -53,7 +53,7 @@
                 <p class="story-para">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos debitis enim
                     a pariatur molestiae.</p>
             </div>
-            <div class="col-md-6 traveler" data-aos="fade-right">
+            <div class="col-md-6 traveler" >
                 <img src="images/traveler.jpg" alt="traveler" class="img-fluid">
             </div>
         </div>
@@ -64,7 +64,7 @@
 <section class="hero2">
     <div class="container outer-story-box">
         <div class="row d-flex">
-            <div class="col-lg-6 col-md-12 col-sm-12 mission" data-aos="fade-right">
+            <div class="col-lg-6 col-md-12 col-sm-12 mission" >
             <img src="images/hero.png" alt="traveler" class="img-fluid">
             </div>
             <div class=" col-lg-6 col-md-6 col-sm-12 bacdrop-heading">

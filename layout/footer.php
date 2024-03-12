@@ -13,17 +13,17 @@
                     </div>
                     <div class="footer-content-box">
                         <h2 class="footer-heading-hotel">Hotel</h2>
-                        <a href="#">About Us</a>
+                        <a href="about.php">About Us</a>
                         <a href="#">Review</a>
-                        <a href="#">Get Direction</a>
+                        <a href="contact.php">Get Direction</a>
                         <a href="#">Nearby Visits</a>
-                        <a href="#">Contact Us</a>
+                        <a href="contact.php">Contact Us</a>
                     </div>
                     <div class="footer-content-box">
                         <h2 class="footer-heading-hotel">Customer Help</h2>
                         <a href="#">Guest Support</a>
                         <a href="#">Guest Feedback</a>
-                        <a href="#">FAQs</a>
+                        <a href="faq.php">FAQs</a>
                         <a href="#">Offers</a>
                         <a href="#">Location</a>
                     </div>
@@ -47,8 +47,8 @@
     <script src="js/all.min.js"></script>
     <script src="js/bootstrap.bundle.min.js"></script>
     <script src="js/lightbox.min.js"></script>
-    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
     <script src="js/jquery.js"></script>
+    <script src="js/lightbox-plus-jquery.min.js"></script>
     <script src="js/owl.carousel.min.js"></script>
     <script src="js/custom.js"></script>
     <script>
@@ -57,6 +57,8 @@
             duration: 2000,
         });
     </script>
+    <script src="js/venobox.js"></script>
+    <script src="js/venobox.min.js"></script>
     </body>
 
     </html>
